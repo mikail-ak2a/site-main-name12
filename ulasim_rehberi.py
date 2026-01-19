@@ -18,3 +18,4 @@ def otobüs_sorgula():
 
 if __name__ == "__main__":
     otobüs_sorgula() 
+ 
